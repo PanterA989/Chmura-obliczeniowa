@@ -1,4 +1,0 @@
-1. docker build . -t data_czas_ip
-2. docker run --rm -p 1237:3338 -it data_czas_ip
-3. Informacje są wyświetlane w konsoli
-4. docker image inspect data_czas_ip
